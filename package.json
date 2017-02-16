@@ -1,0 +1,11 @@
+{
+  "name": "static-service",
+  "version": "1.0.0",
+  "description": "static-service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hing",
+  "license": "ISC"
+}
